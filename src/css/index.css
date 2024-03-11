@@ -91,6 +91,7 @@
   font-size: 24px;
   color: #212121;
   cursor: pointer;
+  display: none;
 }
 
 .load-more-btn:hover {
